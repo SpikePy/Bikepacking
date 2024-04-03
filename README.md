@@ -5,3 +5,5 @@ Prepare for bikepacking to the Netherlands
 
 - swiss army knive
 - scissors
+- tent
+- cutlery
