@@ -1,29 +1,42 @@
 # Bikepacking
-Prepare for bikepacking to the Netherlands
+
+Prepare for bikepacking to the Netherlands.
 
 ## Stuff we need
 
-- swiss army knive
-- scissors
-- tent
-- cutlery
 - isoband
 - stirnlampe
-- fahrradbeleichtung
 - arschcreme
 - sonnencreme
 - lippenbalsam
-- multitool
 - inseltenschutz
 - zahnbürste
 - deo
 - pflaster
 - rettungsdecke
-- in-ear
-- battery pack/Ladekabel
+- teebeutel
+
+### Bike
+
+- fahrradbeleuchtung
+- multitool
+  
+### Clothing
+
+- handschuhe
 - beinlinge
 - halstuch
-- handschuhe
 - mütze
-- teebeutel
-- 
+
+### Camping
+
+- cutlery
+- swiss army knive
+- scissors
+- tent
+
+### Tech
+
+- in-ear
+- Speaker
+- battery pack/Ladekabel
