@@ -4,29 +4,21 @@ Prepare for bikepacking to the Netherlands.
 
 ## Stuff we need
 
-- isoband
-- stirnlampe
-- arschcreme
-- sonnencreme
-- lippenbalsam
-- inseltenschutz
-- zahnbürste
-- deo
-- pflaster
-- rettungsdecke
-- teebeutel
-
 ### Bike
 
-- fahrradbeleuchtung
-- multitool
+- Fahrrad-Beleuchtung
+- Multitool
+- kleine Notfall-Luftpumpe
+- Ersatzschlauch
+- Helm
   
 ### Clothing
 
-- handschuhe
-- beinlinge
-- halstuch
-- mütze
+- Handschuhe
+- Beinlinge
+- Halstuch
+- Mütze
+- Regenjacke
 
 ### Camping
 
@@ -37,6 +29,20 @@ Prepare for bikepacking to the Netherlands.
 
 ### Tech
 
-- in-ear
+- Stirnlampe
+- In-Ear
 - Speaker
-- battery pack/Ladekabel
+- Powerbanks/Charger
+
+### Misc
+
+- isoband
+- arschcreme
+- sonnencreme
+- lippenbalsam
+- inseltenschutz
+- zahnbürste
+- deo
+- pflaster
+- rettungsdecke
+- teebeutel
