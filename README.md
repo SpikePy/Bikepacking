@@ -19,6 +19,7 @@ Prepare for bikepacking to the Netherlands.
 - Halstuch
 - Mütze
 - Regenjacke
+- Fahrradbrille
 
 ### Camping
 
@@ -26,6 +27,7 @@ Prepare for bikepacking to the Netherlands.
 - swiss army knive
 - scissors
 - tent
+- Wasserflasche
 
 ### Tech
 
@@ -33,6 +35,7 @@ Prepare for bikepacking to the Netherlands.
 - In-Ear
 - Speaker
 - Powerbanks/Charger
+
 
 ### Misc
 
