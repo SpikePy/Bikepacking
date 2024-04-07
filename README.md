@@ -11,6 +11,8 @@ Prepare for bikepacking to the Netherlands.
 - kleine Notfall-Luftpumpe
 - Ersatzschlauch
 - Helm
+- Spanngurte
+- Kettenwachs/-öl
   
 ### Clothing
 
@@ -28,6 +30,7 @@ Prepare for bikepacking to the Netherlands.
 - scissors
 - tent
 - Wasserflasche
+- Handtuch
 
 ### Tech
 
@@ -41,11 +44,17 @@ Prepare for bikepacking to the Netherlands.
 
 - isoband
 - arschcreme
-- sonnencreme
-- lippenbalsam
-- inseltenschutz
-- zahnbürste
-- deo
-- pflaster
+- Sonnencreme
+- Lippenbalsam
+- Insektenschutz
+- Zahnbürste
+- Deo
+- Pflaster
 - rettungsdecke
 - teebeutel
+- wasserdichte Tasche für Technik bei Starkregen (Packsack)
+- Klopapier
+- Krankenkarte, Perso
+- Müsliriegel
+- Feuerzeug
+- Klebeband
