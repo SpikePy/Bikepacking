@@ -47,6 +47,7 @@ Prepare for bikepacking to the Netherlands.
 - Sonnencreme
 - Lippenbalsam
 - Insektenschutz
+- Ohrstöpsel
 - Zahnbürste
 - Deo
 - Pflaster
