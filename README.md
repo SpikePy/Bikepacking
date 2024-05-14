@@ -17,7 +17,7 @@ Prepare for bikepacking to the Netherlands.
 ### Clothing
 
 - Handschuhe
-- Beinlinge
+- Armlinge
 - Halstuch
 - Mütze
 - Regenjacke
@@ -25,19 +25,19 @@ Prepare for bikepacking to the Netherlands.
 
 ### Camping
 
-- cutlery
-- swiss army knive
-- scissors
-- tent
-- Wasserflasche
+- Besteck
+- Schweizer Taschenmesser
+- Schere
+- Zelte
+- Wasserflaschen 
 - Handtuch
 
 ### Tech
 
 - Stirnlampe
 - In-Ear
-- Speaker
-- Powerbanks/Charger
+- Lautsprecher
+- Powerbanks / Ladegeräte /Kabel
 
 
 ### Misc
@@ -46,15 +46,16 @@ Prepare for bikepacking to the Netherlands.
 - arschcreme
 - Sonnencreme
 - Lippenbalsam
-- Insektenschutz
+- ANTI-Brumm
 - Ohrstöpsel
 - Zahnbürste
 - Deo
 - Pflaster
 - rettungsdecke
 - teebeutel
+- -InstantKaffee
 - wasserdichte Tasche für Technik bei Starkregen (Packsack)
-- Klopapier
+- Klopapier/ Feuchttücher/ Feuchttücher
 - Krankenkarte, Perso
 - Müsliriegel
 - Feuerzeug
