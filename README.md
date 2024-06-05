@@ -8,7 +8,7 @@ Prepare for bikepacking to the Netherlands.
 
 - Fahrrad-Beleuchtung
 - Multitool
-- kleine Notfall-Luftpumpe
+- Kleine Luftpumpe
 - Ersatzschlauch
 - Helm
 - Spanngurte
@@ -42,20 +42,20 @@ Prepare for bikepacking to the Netherlands.
 
 ### Misc
 
-- isoband
-- arschcreme
+- Isoband
+- Arschcreme
 - Sonnencreme
 - Lippenbalsam
-- ANTI-Brumm
+- Insektenspray
 - Ohrstöpsel
 - Zahnbürste
 - Deo
 - Pflaster
-- rettungsdecke
-- teebeutel
-- -InstantKaffee
-- wasserdichte Tasche für Technik bei Starkregen (Packsack)
-- Klopapier/ Feuchttücher/ Feuchttücher
+- Rettungsdecke
+- Teebeutel
+- InstantKaffee
+- Wasserdichte Tasche für Technik bei Starkregen (Packsack)
+- Klopapier/Feuchttücher
 - Krankenkarte, Perso
 - Müsliriegel
 - Feuerzeug
