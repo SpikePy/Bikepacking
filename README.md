@@ -17,7 +17,7 @@ Prepare for bikepacking to the Netherlands.
 ### Clothing
 
 - Handschuhe
-- Armlinge
+- Arm- & Beinlinge
 - Halstuch
 - Mütze
 - Regenjacke
