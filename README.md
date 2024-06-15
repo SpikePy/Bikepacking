@@ -37,12 +37,12 @@ Prepare for bikepacking to the Netherlands.
 - Stirnlampe
 - In-Ear
 - Lautsprecher
-- Powerbanks / Ladegeräte /Kabel
+- Powerbanks + Kabel + Ladegerät
 
 
 ### Misc
 
-- Isoband
+- Klebeband
 - Arschcreme
 - Sonnencreme
 - Lippenbalsam
@@ -50,13 +50,12 @@ Prepare for bikepacking to the Netherlands.
 - Ohrstöpsel
 - Zahnbürste
 - Deo
-- Pflaster
+- Pflaster 
 - Rettungsdecke
 - Teebeutel
-- InstantKaffee
+- Instant-Kaffee
 - Wasserdichte Tasche für Technik bei Starkregen (Packsack)
 - Klopapier/Feuchttücher
 - Krankenkarte, Perso
 - Müsliriegel
 - Feuerzeug
-- Klebeband
