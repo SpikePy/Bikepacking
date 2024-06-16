@@ -18,11 +18,10 @@
 # Rack-Pack
 
 - First Aid
-- Bije Tools + wax
 - Arm-/Beinlinge
 - Drinking
 - Speaker
-- Toilet papers
+- Toilet Paper
 - Chainlock
 - Rain Jacket/Trousers
 - Arschcreme
@@ -35,16 +34,23 @@
 - Kindle
 - Notebook
 - Straps
-- Clothes
-  - Shoes
-  - warm jacket
-  - long Trousers
-  - jersey
-  - bibs
+- Shoes
+- Bike Tools + wax
+- Bag (12L)
+  - Warm Jacket
+  - Long Trousers
+  - Long Shirt
 
 # Rack Right
 
 - Washing Stuff
-- Sleeping Bag
+- Sleeping Bag and Inlay
+- Big Bag
+  - Badehose
+  - Bibs
+  - Jersay
+- Small Bag
+  - Underwear
+  
 
 
