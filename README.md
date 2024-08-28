@@ -12,8 +12,8 @@ Prepare for bikepacking to the Netherlands.
 - Ersatzschlauch
 - Helm
 - Spanngurte
-- Kettenwachs/-öl
-  
+- Kettenwachs/-öl (Kettenschaltung)
+
 ### Clothing
 
 - Handschuhe
@@ -22,6 +22,7 @@ Prepare for bikepacking to the Netherlands.
 - Mütze
 - Regenjacke
 - Fahrradbrille
+- Badehose
 
 ### Camping
 
@@ -29,8 +30,12 @@ Prepare for bikepacking to the Netherlands.
 - Schweizer Taschenmesser
 - Schere
 - Zelte
-- Wasserflaschen 
+- Wasserflaschen
 - Handtuch
+- Bio-Seife, -Shampoo, -Spühli
+- Faltbecher
+- Zahnbürste
+- Klopapier/Feuchttücher
 
 ### Tech
 
@@ -45,18 +50,12 @@ Prepare for bikepacking to the Netherlands.
 - Klebeband
 - Arschcreme
 - Sonnencreme
-- Lippenbalsam
 - Insektenspray
 - Ohrstöpsel
-- Zahnbürste
 - Deo
-- Pflaster 
-- Rettungsdecke
-- Teebeutel
-- Instant-Kaffee
+- Pflaster
 - Wasserdichte Tasche für Technik bei Starkregen (Packsack)
-- Klopapier/Feuchttücher
 - Krankenkarte, Perso
 - Müsliriegel
 - Feuerzeug
-- Tüten-Clipser
+- Kabelbinder, Tüten-Clipser
